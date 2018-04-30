@@ -30,7 +30,7 @@ public class ParksFragment extends Fragment {
         // Create an ArrayList of places objects
         final ArrayList<Place> places = new ArrayList<>();
         places.add(new Place(getString(R.string.park_name1), R.drawable.family_park, getString(R.string.park_name1), R.drawable.family_park, getString(R.string.park_INFO1), getString(R.string.park_name1), getString(R.string.phone_park_1)));
-        places.add(new Place(getString(R.string.park_name2), R.drawable.gabalaya_park_and_aquarium, getString(R.string.park_name2), R.drawable.gabalaya_park_and_aquarium, getString(R.string.park_INFO2), getString(R.string.park_name2), getString(R.string.phone_park_2)));
+        places.add(new Place(getString(R.string.park_name2), R.drawable.gabalaya_park_and_aquarium, getString(R.string.park_name_without_space), R.drawable.gabalaya_park_and_aquarium, getString(R.string.park_INFO2), getString(R.string.park_name_without_space), getString(R.string.phone_park_2)));
         places.add(new Place(getString(R.string.park_name3), R.drawable.azhar_park, getString(R.string.park_name3), R.drawable.azhar_park, getString(R.string.park_INFO3), getString(R.string.park_name3), getString(R.string.phone_park_3)));
 
 

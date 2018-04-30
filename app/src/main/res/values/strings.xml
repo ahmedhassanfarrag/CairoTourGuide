@@ -91,6 +91,7 @@ From the beginning, Starbucks set out to be a different kind of company. One tha
     <string name="phone_cafe_5">16460</string>
     <string name="park_name1">Family Park</string>
     <string name="park_name2">Gabalaya Park And\u0020\u0020\u0020\u0020\u0020\u0020\u0020Aquarium</string>
+    <string name="park_name_without_space">Gabalaya Park And Aquarium</string>
     <string name="park_name3">Al Azhar Park</string>
     <string name="phone_park_1">"01159661880"</string>
     <string name="phone_park_2">01091593825</string>
