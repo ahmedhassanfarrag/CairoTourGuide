@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BFA5</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Background color for the museum category -->
+    <color name="category_museum">#00838F</color>
+
+    <!-- Background color for the top5  category -->
+    <color name="category_top5">#558B2F</color>
+
+    <!-- Background color for mall category -->
+    <color name="category_mall">#00838F</color>
+
+    <!-- Background color for cafe category -->
+    <color name="category_cafe">#558B2F</color>
+    <!-- Background color for parks category -->
+    <color name="category_parks">#00838F</color>
+</resources>
