@@ -30,7 +30,7 @@ public class TopPlacesFragmen extends Fragment {
         // Create an ArrayList of places objects
         final ArrayList<Place> places = new ArrayList<>();
         places.add(new Place(getString(R.string.top5_name1), R.drawable.the_giza_pyramids, getString(R.string.top5_name1), R.drawable.the_giza_pyramids, getString(R.string.TOP_INFO1), getString(R.string.loc_top51), getString(R.string.phone_top5empity)));
-        places.add(new Place(getString(R.string.top5_name2), R.drawable.cairo_tower, getString(R.string.top5_name2), R.drawable.cairo_tower, getString(R.string.TOP_INFO2), getString(R.string.TOP_INFO2), getString(R.string.phonetop52)));
+        places.add(new Place(getString(R.string.top5_name2), R.drawable.cairo_tower, getString(R.string.top5_name2), R.drawable.cairo_tower, getString(R.string.TOP_INFO2), getString(R.string.top5_name2), getString(R.string.phonetop52)));
         places.add(new Place(getString(R.string.top5_name3), R.drawable.dahshurpyramids, getString(R.string.top5_name3), R.drawable.dahshurpyramids, getString(R.string.TOP_INFO3), getString(R.string.loc_top53), getString(R.string.phone_top5empity)));
         places.add(new Place(getString(R.string.top5_name4), R.drawable.nilometer, getString(R.string.top5_name4), R.drawable.nilometer, getString(R.string.TOP_INFO4), getString(R.string.top5_name4), getString(R.string.phone_top5empity)));
         places.add(new Place(getString(R.string.top5_name5), R.drawable.khan_el_khalili, getString(R.string.top5_name5), R.drawable.khan_el_khalili, getString(R.string.TOP_INFO5), getString(R.string.top5_name5), getString(R.string.phone_top5empity)));
